@@ -6,9 +6,9 @@ Este repositório contém as resoluções detalhadas de uma lista abrangente de 
 
 O repositório está organizado em três arquivos Jupyter Notebooks, cada um contendo a resolução de 18 exercícios da lista.
 
-* `estatistica_parte1.ipynb`: Contém as resoluções dos Exercícios 1 ao 18.
-* `estatistica_parte2.ipynb`: Contém as resoluções dos Exercícios 19 ao 36.
-* `estatistica_parte3.ipynb`: Contém as resoluções dos Exercícios 37 ao 54.
+* `ex01-18.ipynb`: Contém as resoluções dos Exercícios 1 ao 18.
+* `ex19-36.ipynb`: Contém as resoluções dos Exercícios 19 ao 36.
+* `ex37-54.ipynb`: Contém as resoluções dos Exercícios 37 ao 54.
 
 **Dentro de cada notebook:**
 * Cada célula individual corresponde a um exercício específico.
