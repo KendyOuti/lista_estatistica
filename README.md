@@ -49,7 +49,7 @@ Os exercícios cobrem uma vasta gama de tópicos em estatística inferencial e d
 
 ### `ex37-54.ipynb.ipynb` (Exercícios 37 - 54)
 * **Intervalos de Confiança para Variância e Desvio Padrão Populacional:**
-    * Utilização da distribuição Qui-Quadrado ($\chi^2$).
+    * Utilização da distribuição Qui-Quadrado.
     * Cálculo de limites de confiança para $\sigma^2$ e $\sigma$.
 * **Testes de Hipóteses para Médias Populacionais (σ Conhecido - Teste Z):**
     * Cálculo da estatística de teste Z.
