@@ -32,8 +32,8 @@ Os exercícios cobrem uma vasta gama de tópicos em estatística inferencial e d
 
 ### `ex19-36.ipynb.ipynb` (Exercícios 19 - 36)
 * **Aproximação Normal da Distribuição Binomial:**
-    * Verificação das condições para a aproximação ($np \ge 5$, $nq \ge 5$).
-    * Cálculo de média ($\mu = np$) e desvio padrão ($\sigma = \sqrt{npq}$) para a aproximação.
+    * Verificação das condições para a aproximação.
+    * Cálculo de média e desvio padrão para a aproximação.
     * Aplicação da correção de continuidade para probabilidades binomiais.
 * **Determinação de Tamanho de Amostra:**
     * Para estimar médias populacionais.
@@ -41,9 +41,9 @@ Os exercícios cobrem uma vasta gama de tópicos em estatística inferencial e d
 * **Valores Críticos de Distribuições:**
     * Valores críticos para a distribuição Z (Normal Padrão).
     * Valores críticos para a distribuição t de Student.
-    * Valores críticos para a distribuição Qui-Quadrado ($\chi^2$).
+    * Valores críticos para a distribuição Qui-Quadrado.
 * **Introdução a Testes de Hipóteses:**
-    * Formulação de hipóteses nulas ($H_0$) e alternativas ($H_a$).
+    * Formulação de hipóteses nulas e alternativas.
     * Identificação de testes unilaterais (esquerda/direita) e bilaterais.
     * Definição e interpretação de Erros Tipo I e Tipo II.
 
